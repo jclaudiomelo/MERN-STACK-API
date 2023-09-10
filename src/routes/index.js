@@ -12,3 +12,4 @@ router.use("/auth", authRouter);
 router.use("/doc", swaggerRouter);
 
 export default router;
+//final
